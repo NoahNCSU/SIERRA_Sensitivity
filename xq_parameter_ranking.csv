@@ -1,0 +1,14 @@
+met_file,parameter,mean_abs_pct_change,n_values
+C:\SIERRA\Test_Cases_ATD\MET_8387.nrc,receptor_terrain_min,284.11284656945696,704
+C:\SIERRA\Test_Cases_ATD\MET_8387.nrc,stack_height,148.84031334837192,960
+C:\SIERRA\Test_Cases_ATD\MET_8387.nrc,receptor_terrain_max,89.28483984631757,704
+C:\SIERRA\Test_Cases_ATD\MET_8387.nrc,stack_terrain,47.650364868601635,704
+C:\SIERRA\Test_Cases_ATD\MET_8387.nrc,ws_calm_threshold,17.629519016728864,704
+C:\SIERRA\Test_Cases_ATD\MET_8387.nrc,receptor_distance_max,13.532646830447497,1088
+C:\SIERRA\Test_Cases_ATD\MET_8387.nrc,receptor_distance_min,4.318758975608947,704
+C:\SIERRA\Test_Cases_ATD\MET_8387.nrc,inland_or_coastal,0.5491438118461921,128
+C:\SIERRA\Test_Cases_ATD\MET_8387.nrc,stack_dia,0.0,2560
+C:\SIERRA\Test_Cases_ATD\MET_8387.nrc,stack_flow,0.0,704
+C:\SIERRA\Test_Cases_ATD\MET_8387.nrc,stack_heat_emis,0.0,704
+C:\SIERRA\Test_Cases_ATD\MET_8387.nrc,building_area,0.0,1344
+C:\SIERRA\Test_Cases_ATD\MET_8387.nrc,building_ht,0.0,1344

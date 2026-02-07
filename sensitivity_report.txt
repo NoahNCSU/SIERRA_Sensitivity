@@ -1,0 +1,24 @@
+SIERRA Sensitivity Report
+===========================
+
+Run directory: C:\Users\naetter\OneDrive - North Carolina State University\Desktop\EAB Optimization Project\sierra_sensitivity_20260207_134814
+MET files: 1
+  - C:\SIERRA\Test_Cases_ATD\MET_8387.nrc
+
+Total cases run: 194
+Control cases: 1
+Sensitivity cases: 193
+Duration (seconds): 359.19
+Duration (minutes): 5.99
+
+High-level takeaways (top mean absolute % change):
+  - receptor_terrain_min (mean_abs_pct_change=284.11284656945696)
+  - stack_height (mean_abs_pct_change=148.84031334837192)
+  - receptor_terrain_max (mean_abs_pct_change=89.28483984631757)
+  - stack_terrain (mean_abs_pct_change=47.650364868601635)
+  - ws_calm_threshold (mean_abs_pct_change=17.629519016728864)
+
+Notes:
+- Rankings are based on mean absolute percent change vs control across all X/Q outputs.
+- Parameters with zero change may indicate insensitivity for the tested ranges,
+  numerical rounding, or model rules that ignore the parameter under the chosen settings.
